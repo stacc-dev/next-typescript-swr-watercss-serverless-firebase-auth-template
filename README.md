@@ -29,3 +29,5 @@ Create a file called `.env` with the following environment variables:
 - `GCLOUD_CREDENTIALS`: A base64-encoded JSON string containing credentials to a Firebase service account (create one in the console if needed)
 
 If you aren't familiar with `.env` files, put each environment variable on separate lines. Each line should be in the format of `VARIABLE_NAME=VARIABLE_VALUE`. Create an issue if you have any other questions!
+
+Now just run `yarn dev` to start the development server.
