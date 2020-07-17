@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "firebase": "^7.16.1",
+    "firebase-admin": "^9.0.0",
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-firebase-hooks": "^2.2.0",
+    "swr": "^0.2.3"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.23",
+    "@types/react": "^16.9.43",
+    "typescript": "^3.9.7"
+  },
+  "scripts": {
+    "dev": "next"
+  }
+}
