@@ -1,4 +1,3 @@
-
 import { useAuthState } from 'react-firebase-hooks/auth'
 import firebase from 'lib/client/firebase'
 import { useRequireUser, useAuthedData } from 'lib/client/hooks'
