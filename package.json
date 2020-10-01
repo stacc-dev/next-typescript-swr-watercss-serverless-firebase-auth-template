@@ -6,7 +6,8 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-firebase-hooks": "^2.2.0",
-    "swr": "^0.2.3"
+    "swr": "^0.2.3",
+    "water.css": "^2.0.0"
   },
   "devDependencies": {
     "@types/node": "^14.0.23",
